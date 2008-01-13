@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1946
+
+When grepping I don\\&#039t want to get the files stored by the version control system. That\\&#039s why I\\&#039ve written this script to remove those matches. 
+It can also be used to replace filenames (cygwin problem)..
+If you are unsure which and how many files have been removed just invoke :LogShowAll and rerun. 
+
